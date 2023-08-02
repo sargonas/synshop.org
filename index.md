@@ -8,19 +8,19 @@ header:
   overlay_image: /assets/images/header_synshop.png
   overlay_color: "#5e616c"
   overlay_filter: 0.5
-gallery:
-  image_path: /assets/images/frontpage_hours.png
-  alt: "hours image"
-  title: "Hours"
-  url: "/hours/"
-  image_path: /assets/images/frontpage_equipment.png
-  alt: "equipment photo"
-  title: "Equipment"
-  url: "/equipment/"
-  image_path: /assets/images/frontpage_events.png
-  alt: "events image"
-  title: "Events"
-  url: "/events/"   
+feature_row:
+  - image_path: /assets/images/frontpage_hours.png
+    alt: "hours image"
+    title: "Hours"
+    url: "/hours/"
+  - image_path: /assets/images/frontpage_equipment.png
+    alt: "equipment photo"
+    title: "Equipment"
+    url: "/equipment/"
+  - image_path: /assets/images/frontpage_events.png
+    alt: "events image"
+    title: "Events"
+    url: "/events/"   
 ---
 
 SYN Shop is a hackerspace serving the Las Vegas Valley in Nevada. It is a space for sharing, creation, collaboration, research, development, mentoring, and of course, learning. Our motto is: "Let's make stuff awesome!"
