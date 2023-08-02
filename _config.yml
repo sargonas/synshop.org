@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "SynShop"
+  name             : #"SynShop"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** shop!"
-  location         : "Las Vegas"
+  bio              : #"I am an **amazing** shop!"
+  location         : #"Las Vegas"
   email            :
   links:
     - label: "Email"

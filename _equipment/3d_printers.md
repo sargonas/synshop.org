@@ -2,7 +2,7 @@
 title: 3D Printers
 id: 3d_printers
 permalink: '/equipment/3d_printers/'
-image: '/assets/images/equipment/equipment_placeholder.png'
+image: '/assets/images/equipment/3d_printers.jpg'
 layout: equipment
 tags: equipment
 classes: wide
