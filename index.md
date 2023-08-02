@@ -23,14 +23,14 @@ feature_row:
     url: "/events/"   
 ---
 
-SYN Shop is a hackerspace serving the Las Vegas Valley in Nevada. It is a space for sharing, creation, collaboration, research, development, mentoring, and of course, learning. Our motto is: "Let's make stuff awesome!"
+SYN Shop is a hackerspace serving the Las Vegas Valley in Nevada. It is a space for sharing, creation, collaboration, research, development, mentoring, and of course, learning. Our motto is: ***"Let's make stuff awesome!"***
 
 ### Who We Are
 
-We are hackers, makers, artists, innovators, inventors, people of knowledge, and people who want to learn. We are people who take things apart to see how they work. We design the new because it has not been done before, and we reinvent what has already been done for the challenge of doing it ourselves. We're here to discover the unknown. To teach others, and to put our mark on the world by helping others. We're here to form a community of people who come together to share resources and knowledge to build and make things.
+We are hackers, makers, artists, innovators, inventors, people of knowledge, and people who want to learn. We are people who take things apart to see how they work. We design the new because it has not been done before, and we reinvent what has already been done for the challenge of doing it ourselves. We're here to discover the unknown, to teach others, and to put our mark on the world by helping others. We're here to form a community of people who come together to share resources and knowledge to build and make things.
 
 ### What We Are Not
 
-We may be hackers, but we are hackers in the same sense that Steve Wozniak or Dean Kamen are hackers. We're not here to break into your ex's cell phone/computer/automobile, etc.. We're not the people who attack and deface web sites, steal people's credit card information, or even identities. In fact many of us work in industries which protect against such people.
+We may be hackers, but we are hackers in the same sense as Steve Wozniak or Dean Kamen are. We're not here to break into your ex's cell phone/computer/automobile, etc.. We're not the people who attack and deface web sites, steal people's credit card information, or identities. In fact, many of us work in the industries which protect against such people.
 
 {% include feature_row %}

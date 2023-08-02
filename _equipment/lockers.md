@@ -1,0 +1,28 @@
+---
+title: Lockers
+id: lockers
+layout: equipment
+permalink: '/equipment/lockers/'
+image: '/assets/images/equipment/equipment_placeholder.png'
+header:
+  overlay_image: /assets/images/header_equipment.png
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
+type: 'utilities'
+subtype: 'lockers'
+updated: 2023-08-02
+---
+
+Lockers are available for paying members for an additional $10 a month.
+
+
+## Rules
+
+Rules for using goes here
+
+## Supplies
+
+more filler example text here
+
+## Tips and tricks
+Don't hurt yourself (WIP)

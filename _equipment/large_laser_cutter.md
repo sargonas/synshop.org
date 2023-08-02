@@ -1,9 +1,9 @@
 ---
-title: Laser Cutter
-id: lasercutter1
+title: Large Laser Cutter
+id: large_laser_cutter
 layout: equipment
-permalink: '/equipment/lasercutter1/'
-image: '/assets/images/equipment/lasercutter1.png'
+permalink: '/equipment/large_laser_cutter/'
+image: '/assets/images/equipment/equipment_placeholder.png'
 header:
   overlay_image: /assets/images/header_equipment.png
   overlay_color: "#5e616c"
