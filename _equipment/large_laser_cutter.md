@@ -1,9 +1,11 @@
 ---
 title: Large Laser Cutter
 id: large_laser_cutter
-layout: equipment
 permalink: '/equipment/large_laser_cutter/'
 image: '/assets/images/equipment/equipment_placeholder.png'
+layout: equipment
+tags: equipment
+classes: wide
 header:
   overlay_image: /assets/images/header_equipment.png
   overlay_color: "#5e616c"

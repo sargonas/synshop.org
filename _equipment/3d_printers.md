@@ -1,9 +1,11 @@
 ---
 title: 3D Printers
 id: 3d_printers
-layout: equipment
 permalink: '/equipment/3d_printers/'
 image: '/assets/images/equipment/equipment_placeholder.png'
+layout: equipment
+tags: equipment
+classes: wide
 header:
   overlay_image: /assets/images/header_equipment.png
   overlay_color: "#5e616c"

@@ -1,9 +1,11 @@
 ---
 title: Table Saw
 id: table_saw
-layout: equipment
 permalink: '/equipment/table_saw/'
 image: '/assets/images/equipment/equipment_placeholder.png'
+layout: equipment
+tags: equipment
+classes: wide
 header:
   overlay_image: /assets/images/header_equipment.png
   overlay_color: "#5e616c"
