@@ -7,6 +7,7 @@ layout: equipment
 tags: equipment
 classes: wide
 header:
+  teaser: '/assets/images/equipment/3d_printers.jpg'
   overlay_image: /assets/images/header_equipment.png
   overlay_color: "#5e616c"
   overlay_filter: 0.5
