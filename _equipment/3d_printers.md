@@ -15,20 +15,24 @@ type: 'fabrication'
 subtype: '3d Printers'
 updated: 2023-08-02
 ---
-![](/assets/images/equipment/3d_printers.jpg)
+<img align="right" width="250" height="250" src="/assets/images/equipment/3d_printers.jpg">
 
 We have multiple FDM 3D Printers available for shop use
 
-
+- [Cetus3D](https://www.cetus3d.com/) - PLA Only printer
+- 2x [Creality Ender 3](https://www.creality.com/products/ender-3-3d-printer) - PLA Only printers
+- [Replicator 2](https://www.makerbot.com/) - PLA Only printer, 100 micron print resolution
+- [Flashforge Dual Extruder 3D Printers](https://store.flashforge.com/) (ABS/PLA, 100 micron print resolution)
+- 2x [Anycubic Photon Series LCD-Based SLA Resin 3D Printers](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer)
 
 ## Rules
 
 Rules for using goes here
 
 ## Supplies
-Stuff you can cut and things needed to cut them will go here
+Stuff you can print and things needed to cut them will go here
 
 more filler example text here
 
 ## Tips and tricks
-Don't look at the shiny part!
+Don't touch the burny bits!
