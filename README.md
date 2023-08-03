@@ -35,9 +35,10 @@ This theme comes in nine different skins (in addition to the default one).
 
 ## Installation
 
-- Download this repository
-- Install the requried gems: `bundle install`
-- Run the jekyll server: `bundle exec jekyll serve`
+- Install [Ruby and Jekyll](https://jekyllrb.com/docs/installation/ubuntu/)
+- `clone` this repository
+- Install the required gems: `bundle install`
+- Run the jekyll server with automatic reload and binding to all interfaces: `bundle exec jekyll serve --incremental --host=0.0.0.0`
 
 You should have a server up and running locally on the usual dev/test port of 4000
 
