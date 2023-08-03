@@ -15,9 +15,11 @@ type: 'fabrication'
 subtype: '3d Printers'
 updated: 2023-08-02
 ---
-
+![](/assets/images/equipment/3d_printers.jpg)
 
 We have multiple FDM 3D Printers available for shop use
+
+
 
 ## Rules
 
