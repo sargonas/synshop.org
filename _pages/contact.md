@@ -8,4 +8,11 @@ header:
   overlay_filter: 0.5
 ---
 
-Contact stuff to go here
+## Discord
+The best method to contact the staff in real time is on our [Discord server.](https://synshop.org/discord)
+
+## Address
+SYN Shop
+5967 Harrison Dr
+Ste. 100
+Las Vegas, NV 89120

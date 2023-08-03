@@ -15,17 +15,14 @@ type: 'station'
 subtype: 'printing'
 updated: 2023-08-02
 ---
+<img align="right" width="250" height="250" src="/assets/images/equipment/print_shop.jpg">
 
-We have a print shop room with binding etc etc etc
+We have a print shop room with printing & binding supplies
 
+## Equipment
 
-## Rules
+A non-exhaustive list of the various things available in the Print Shop room
 
-Rules for using goes here
-
-## Supplies
-
-more filler example text here
-
-## Tips and tricks
-Don't hurt yourself (WIP)
+- [Sharp MX3070V](/equipment/sharp_printer/)
+- [Canon iPF6400SE 24" Large Format Printer](/equipment/canon_lf_printer/)
+- [40" Rotary Cutter](/equipment/rotary_cutter)

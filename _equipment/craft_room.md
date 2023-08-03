@@ -15,9 +15,13 @@ type: 'station'
 subtype: 'crafts'
 updated: 2023-08-02
 ---
+<img align="right" width="250" height="250" src="/assets/images/equipment/canon_lf_printer.jpg">
 
 crafting (WIP)
 
+## Equipment
+
+- [Singer Stylist II Serger](/equipment/serger/)
 
 ## Rules
 
