@@ -1,0 +1,18 @@
+---
+name: Link checker
+on:
+  push:
+  #pull_request:
+jobs:
+  linkinator:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Run link check
+        uses: JustinBeckwith/linkinator-action@v1
+        with:
+          paths: "**/*.md"
+          timeout: 10000
+          linksToSkip: "twitter.com, x.com"
