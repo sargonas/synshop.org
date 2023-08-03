@@ -23,14 +23,14 @@ We have a full suite of tools in our Electronics room for use.
 
 A non-exhaustive list of the various things available in the electronics room
 
-  - Soldering Irons
-  - Multimeters
-  - Heat Guns
-  - Oscilloscope - Tektronix 2225 50Mhz 2ch
-  - USB Oscilloscope
-  - Signal Generator
-  - Bench Top Power Supply - Raytheon
-  - Bus Pirate
-  - Digital Multi Meter
-  - SMD Hotair rework station
-  - Miscellaneous circuitry parts
+- Soldering Irons
+- Multimeters
+- Heat Guns
+- Oscilloscope - Tektronix 2225 50Mhz 2ch
+- USB Oscilloscope
+- Signal Generator
+- Bench Top Power Supply - Raytheon
+- Bus Pirate
+- Digital Multi Meter
+- SMD Hotair rework station
+- Miscellaneous circuitry parts

@@ -22,7 +22,7 @@ The main settings happen inside of the _config.yml_ file:
 
 - Equipment can be added by adding a new markdown file per piece of equipment to the \_equpment folder. When doing so, it's important to match the Front Matter style of the existing ones, as each component plays a key role in the current site look and layout.
 
-- New pages can be added by writing them in HTML or MD inside the \_Pages folder. 
+- New pages can be added by writing them in HTML or MD inside the \_Pages folder.
 
 - If you wish to have a page appear in the top Nav Bar, it is managed by the \_data/navigation.yml file
 
@@ -51,13 +51,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Minimal Mistakes incorporates icons from [The Noun Project](https://thenounproject.com/) 
+Minimal Mistakes incorporates icons from [The Noun Project](https://thenounproject.com/)
 creators Garrett Knoll, Arthur Shlain, and tracy tam.
 Icons are distributed under Creative Commons Attribution 3.0 United States (CC BY 3.0 US).
 
 Minimal Mistakes incorporates [Font Awesome](http://fontawesome.io/),
 Copyright (c) 2017 Dave Gandy.
-Font Awesome is distributed under the terms of the [SIL OFL 1.1](http://scripts.sil.org/OFL) 
+Font Awesome is distributed under the terms of the [SIL OFL 1.1](http://scripts.sil.org/OFL)
 and [MIT License](http://opensource.org/licenses/MIT).
 
 Minimal Mistakes incorporates photographs from [Unsplash](https://unsplash.com).
