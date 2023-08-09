@@ -16,20 +16,20 @@ header:
 <tr>
 <td>
   <div markdown="1">
-    The best method to contact the staff in real time is on our [Discord server.](https://synshop.org/discord)
+  The best method to contact the staff in real time is on our [Discord server.](https://synshop.org/discord)
   </div>
 </td>
 <td>
   <div markdown="1">
-    SYN Shop<br />
-    5967 Harrison Dr<br />
-    Ste. 100<br />
-    Las Vegas, NV 89120
+  SYN Shop<br />
+  5967 Harrison Dr<br />
+  Ste. 100<br />
+  Las Vegas, NV 89120
   </div>
 </td>
 <td>
   <div markdown="1">
-    Additionally, shop staff can be reached at [info@synshop.org](mailto:info@synshop.org)
+  Additionally, shop staff can be reached at [info@synshop.org](mailto:info@synshop.org)
   </div>
 </td>
 </tr>
