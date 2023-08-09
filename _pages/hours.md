@@ -9,6 +9,8 @@ header:
 ---
 SYN Shop's hours are typically weeknight evenings and Saturday afternoons. The "open" hours are overseen by a dedicated Vetted Member on those days. Members are welcome during those times, or any other time a Vetted Member is in the shop, and Vetted Members are welcome to 24/7 access on all days via their Keyfob.
 
+- - - - - -
+
 **Monday:**  7-10pm
 
 **Tuesday:**  7-10pm

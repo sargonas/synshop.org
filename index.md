@@ -13,7 +13,7 @@ feature_row:
     alt: "hours image"
     title: "Hours"
     url: "/hours/"
-  - image_path: /assets/images/frontpage_equipment.png
+  - image_path: /assets/images/frontpage_equipment.jpg
     alt: "equipment photo"
     title: "Equipment"
     url: "/equipment/"
