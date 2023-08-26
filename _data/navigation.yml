@@ -12,5 +12,5 @@ main:
     url: /events/
   - title: "Contact"
     url: /contact/
-  - title: "Members"
-    url: https://members.synshop.org
+  - title: "Membership"
+    url: /membership/
