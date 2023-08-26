@@ -11,7 +11,7 @@ header:
 # New Members
 To use any of the equipment at SYN Shop, you'll need to sign up for at least a monthly membership ($50, which you can cancel at any time) and sign a <a href="#liability-wavier">liability waiver</a>.  Once you create an account, you'll be able to choose a subscription plan that best suits you.
 
-Please <a href="https://membership.synshop.net/signup">create an account here</a> (you'll need to verify your email) to get started.
+Please <a href="https://membership.synshop.net/signup">create an account</a> (you'll need to verify your email) to get started.
 
 # Existing Members
 If you are an existing member, you <a href="https://membership.synshop.net/login">can make changes to your account here</a>.
