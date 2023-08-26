@@ -28,7 +28,7 @@ Members must follow our first rule, "Don't be jerk" as well the others we publis
 Please print, sign and return <a href="/assets/pdf/SYN-Shop-Liability-Waiver-Members.pdf">this waiver to SYN Shop</a>.  You can submit it by either emailing a scanned copy to <a href="mailto:info@synshop.org">info@synshop.org</a> or bring it down to the shop and we'll file it away for you.
 
 ## Hours of Operation
-Please see the Location page for more details.
+Please see the <a href="/hours">Hours</a> page for more details.
 
 ## Vetted Membership
 Once you have be a member of SYN Shop for a while and feel like you are really contributing to the space, you can apply for Vetted Membership status. Vetted Membership status gives you access to the shop 24/7 in addition to the benefits of being a Regular Member. To become a vetted member, your application will be reviewed by the board of directors for approval. The board would love to give everyone vetted membership immediately, but we want to make sure you are going to help protect the reputation of SYN Shop and be super passionate about building an awesome community of Makers.
