@@ -1,4 +1,4 @@
-# Use this Dockerfile to build a development environment 
+# Use this Dockerfile to build a development environment
 
 FROM ubuntu:latest
 
