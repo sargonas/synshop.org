@@ -20,7 +20,7 @@ header:
 </td>
 <td>
   <div markdown="1">
-  If you are an existing member, you can [log in here](https://membership.synshop.net/login) to the membership dashboard to make changes to your account. 
+  If you are an existing member, you can [log in here](https://membership.synshop.net/login) to the membership dashboard to make changes to your account.
   </div>
 </td>
 </tr>
@@ -37,7 +37,7 @@ You must complete a very quick and to-the-point Tool Certification (TC) before y
 <mark><b>Members must also follow our first rule, "Don't be a jerk"</b></mark> as well the others we have [published here](/assets/pdf/SYN_Shop_Rules_v3_2020-08-12.pdf).  Furthermore, the shop [has bylaws](/assets/pdf/SYN_Shop_Bylaws_-_2020-02-01.pdf) which govern how we operate.
 
 #### Vetted Memberships
-Once you have be a member of SYN Shop for a while and feel like you are really contributing to the space, you can apply for Vetted Membership status. Vetted Membership status gives you access to the shop 24/7 in addition to the benefits of being a Regular Member. 
+Once you have be a member of SYN Shop for a while and feel like you are really contributing to the space, you can apply for Vetted Membership status. Vetted Membership status gives you access to the shop 24/7 in addition to the benefits of being a Regular Member.
 
 To become a vetted member, your application will be reviewed by the board of directors for approval. The board would love to give everyone vetted membership immediately, but we want to make sure you are going to help protect the reputation of SYN Shop and be super passionate about building an awesome community of Makers.
 
