@@ -1,5 +1,5 @@
 ---
-title: Singer Serger
+title: Serger
 id: serger
 permalink: '/equipment/serger/'
 image: '/assets/images/equipment/serger.jpg'
