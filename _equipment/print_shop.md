@@ -1,13 +1,13 @@
 ---
-title: Print SHop
+title: Print Shop
 id: print_shop
 permalink: '/equipment/print_shop/'
-image: '/assets/images/equipment/equipment_placeholder.png'
+image: '/assets/images/equipment/print_shop.jpg'
 layout: equipment
 tags: equipment
 classes: wide
 header:
-  teaser: '/assets/images/equipment/equipment_placeholder.png'
+  teaser: '/assets/images/equipment/print_shop.jpg'
   overlay_image: /assets/images/header_equipment.png
   overlay_color: "#5e616c"
   overlay_filter: 0.5
