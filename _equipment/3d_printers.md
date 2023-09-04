@@ -26,6 +26,6 @@ We have multiple FDM 3D Printers available for shop use
 - 2x [Anycubic Photon Series LCD-Based SLA Resin 3D Printers](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer)
 
 Our printers support:
- - PLA
- - ABS
- - Resin
+- PLA
+- ABS
+- Resin
