@@ -25,14 +25,7 @@ We have multiple FDM 3D Printers available for shop use
 - [Flashforge Dual Extruder 3D Printers](https://store.flashforge.com/) (ABS/PLA, 100 micron print resolution)
 - 2x [Anycubic Photon Series LCD-Based SLA Resin 3D Printers](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer)
 
-## Rules
-
-Rules for using goes here
-
-## Supplies
-Stuff you can print and things needed to cut them will go here
-
-more filler example text here
-
-## Tips and tricks
-Don't touch the burny bits!
+Our printers support:
+ - PLA
+ - ABS
+ - Resin

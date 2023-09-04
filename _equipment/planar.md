@@ -1,29 +1,22 @@
 ---
-title: Planar
-id: planar
-permalink: '/equipment/planar/'
-image: '/assets/images/equipment/planar.jpg'
+title: Planer
+id: planer
+permalink: '/equipment/planer/'
+image: '/assets/images/equipment/planer.jpg'
 layout: equipment
 tags: equipment
 classes: wide
 header:
-  teaser: '/assets/images/equipment/planar.jpg'
+  teaser: '/assets/images/equipment/planer.jpg'
   overlay_image: /assets/images/header_equipment.png
   overlay_color: "#5e616c"
   overlay_filter: 0.5
 type: 'machinery'
-subtype: 'planar'
+subtype: 'planer'
 updated: 2023-08-31
 ---
-<img align="right" width="250" height="250" src="/assets/images/equipment/planar.jpg">
+<img align="right" width="250" height="250" src="/assets/images/equipment/planer.jpg">
 
-## Rules
+A Powermatic Planer
 
-Rules for using goes here
-
-## Supplies
-
-more filler example text here
-
-## Tips and tricks
-Don't hurt yourself (WIP)
+Please make sure you have a [waiver on file](/membership#liability-wavier) and have been certified for this particular tool!

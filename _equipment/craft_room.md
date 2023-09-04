@@ -17,20 +17,11 @@ updated: 2023-08-02
 ---
 <img align="right" width="250" height="250" src="/assets/images/equipment/craft_room.jpg">
 
-crafting (WIP)
+In our crafting room we have a variety of tools (and our network server rack!)
 
-## Equipment
-
+- [Consew Industrial Sewing Machine](https://rtfm.synshop.org/users/Equipment/Consew%20230%20Industrial%20Sewing%20Machine/)
 - [Singer Stylist II Serger](/equipment/serger/)
 - [Singer Sewing machine](/equipment/sewing_machine)
-
-## Rules
-
-Rules for using goes here
-
-## Supplies
-
-more filler example text here
-
-## Tips and tricks
-Don't hurt yourself (WIP)
+- [Silouhette Cameo cutting machine](https://rtfm.synshop.org/users/Equipment/Silhoutte%20Cameo/)
+- Thermal Laminator
+- Leatherworking Hand tools

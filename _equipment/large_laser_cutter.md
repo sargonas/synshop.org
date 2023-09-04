@@ -17,12 +17,4 @@ updated: 2023-08-02
 ---
 <img align="right" width="250" height="250" src="/assets/images/equipment/large_laser_cutter.jpg">
 
-Big boi laser cutty cut stuff!
-
-## Supplies
-Stuff you can cut and things needed to cut them will go here
-
-more filler example text here
-
-## Tips and tricks
-Don't look at the shiny part!
+Affectionately known as ["Big Boi"](https://rtfm.synshop.org/users/Equipment/Big%20Boi%20Laser%20Cutter/), we have a Full Spectrum 150 Watt Pro LF series, capable of handling 48" x 36" materials.

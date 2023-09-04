@@ -26,3 +26,4 @@ A non-exhaustive list of the various things available in the Print Shop room
 - [Sharp MX3070V](/equipment/sharp_printer/)
 - [Canon iPF6400SE 24" Large Format Printer](/equipment/canon_lf_printer/)
 - [40" Rotary Cutter](/equipment/rotary_cutter)
+- Misc book-binding equipment.

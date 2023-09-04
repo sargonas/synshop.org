@@ -19,8 +19,4 @@ updated: 2023-08-02
 
 Lockers are available to members for an additional $10/month.
 
-If you wish to have a locker assigned to you, please reach out to an Office in the [Discord server](https://synshop.org/discord) or in person at the shop.
-
-## Rules
-
-We should probably put some general locker rules here or something, huh?
+If you wish to have a locker assigned to you, please reach out to an Officer in the [Discord server](https://synshop.org/discord) or in person at the shop.

@@ -18,14 +18,3 @@ updated: 2023-08-02
 <img align="right" width="250" height="250" src="/assets/images/equipment/sewing_machine.jpg">
 
 Singer Sewing Machine
-
-## Rules
-
-Rules for using goes here
-
-## Supplies
-
-more filler example text here
-
-## Tips and tricks
-Don't hurt yourself (WIP)
