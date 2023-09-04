@@ -1,15 +1,17 @@
 # main links
 main:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
+  #- title: "Home"
+  #  url: /
   - title: "Hours"
     url: /hours/
-  - title: "Equipment"
-    url: /equipment/
   - title: "Events"
     url: /events/
+  - title: "Equipment"
+    url: /equipment/
+  - title: "RTFM"
+    url: https://rtfm.synshop.org/
+  - title: "About"
+    url: /about/
   - title: "Contact"
     url: /contact/
   - title: "Membership"
