@@ -17,13 +17,6 @@ updated: 2023-08-02
 ---
 <img align="right" width="250" height="250" src="/assets/images/equipment/table_saw.jpg">
 
-## Rules
+Delta 10" Tilting, 3 HP Table Saw
 
-Rules for using goes here
-
-## Supplies
-
-more filler example text here
-
-## Tips and tricks
-Don't hurt yourself (WIP)
+Please make sure you have a [waiver on file](/membership#liability-wavier) and have been certified for this particular tool!

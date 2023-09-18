@@ -1,5 +1,7 @@
 # main links
 main:
+  #- title: "Home"
+  #  url: /
   - title: "Hours"
     url: /hours/
   - title: "Events"
@@ -7,12 +9,12 @@ main:
   - title: "Equipment"
     url: /equipment/
   - title: "RTFM"
-    url: https://rtfm.synshop.org
+    url: https://rtfm.synshop.org/
   - title: "About"
     url: /about/
   - title: "Contact"
     url: /contact/
   - title: "Donate"
     url: /donate/
-  - title: "Members"
-    url: /members/
+  - title: "Membership"
+    url: /membership/
