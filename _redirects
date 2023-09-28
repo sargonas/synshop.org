@@ -1,13 +1,26 @@
 /past-events /events 301
+/past-events/ /past-events 301
 /location /contact 301
+/location/ /location 301
 /info /about 301
+/info/ /info 301
 /upcoming /events 301
+/upcoming/ /upcoming 301
 /payment /donate 301
-/joining-syn-shop /members 301
+/payment/ /payment 301
+/joining-syn-shop /membership 301
+/joining-syn-shop/ /joining-syn-shop 301
 /teach-class / 301
+/teach-class/ /teach-class 301
 /webform/teaching / 301
+/webform/teaching/ /webform/teaching 301
 /covid-19-status / 301
+/covid-19-status/ /covid-19-status 301
 /rules-and-guidelines-classes / 301
+/rules-and-guidelines-classes/ /rules-and-guidelines-classes 301
 /media / 301
+/media/ /media 301
 /committees / 301
+/committees/ /committees 301
 /discord https://discord.gg/JKynwur
+/discord/ /discord
