@@ -15,12 +15,12 @@ header:
 <tr>
 <td>
   <div markdown="1">
-  To use the equipment at SYN Shop, you'll need to [create an account](https://membership.synshop.net/signup) to sign up for a membership ($50/month, which you can cancel at any time) and sign a [liability waiver](#liability-wavier).  
+  To use the equipment at SYN Shop, you'll need to [create an account](https://membership.synshop.org/signup) to sign up for a membership ($50/month, which you can cancel at any time) and sign a [liability waiver](#liability-wavier).  
   </div>
 </td>
 <td>
   <div markdown="1">
-  If you are an existing member, you can [log in here](https://membership.synshop.net/login) to the membership dashboard to make changes to your account.
+  If you are an existing member, you can [log in here](https://membership.synshop.org/login) to the membership dashboard to make changes to your account.
   </div>
 </td>
 </tr>
