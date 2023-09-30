@@ -15,7 +15,7 @@ header:
 <tr>
 <td>
   <div markdown="1">
-    To use the equipment at SYN Shop, you'll need to [sign up for a membership](https://membership.synshop.net/signup) ($50 / month, which you can cancel at any time) and sign a [liability waiver](#liability-wavier)
+  To use the equipment at SYN Shop, you'll need to [sign up for a membership](https://membership.synshop.net/signup) ($50 / month, which you can cancel at any time) and sign a [liability waiver](#liability-wavier)
   </div>
 </td>
 <td>
