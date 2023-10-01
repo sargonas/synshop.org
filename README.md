@@ -31,7 +31,7 @@ The main settings happen inside of the _config.yml_ file:
 Redirects are managed "outside" the jekyl config by cloudflare pages itself. It does this by way of of reading the \_redirects file. In the event a redirect of a url with a trailing / is required, you will need to add a second line for the same entry with a trailing /.
 
 Example:
-```
+```text
 /info /about 301
 /info/ /info 301
 ```
