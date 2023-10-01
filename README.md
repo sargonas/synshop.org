@@ -24,8 +24,24 @@ The main settings happen inside of the _config.yml_ file:
 
 - New pages can be added by writing them in HTML or MD inside the \_Pages folder.
 
-- If you wish to have a page appear in the top Nav Bar, it is managed by the \_data/navigation.yml file
+- If you wish to have a page appear in the top Nav Bar, it is managed by the \_data/navigation.yml file. _(However the current nav bar is at max width, and new entries will result in a hamburger menu to the far right)_
 
+## Redirects
+
+Redirects are managed "outside" the jekyl config by cloudflare pages itself. It does this by way of of reading the \_redirects file. In the event a redirect of a url with a trailing / is required, you will need to add a second line for the same entry with a trailing /.
+
+Example:
+```
+/info /about 301
+/info/ /info 301
+```
+As a matter of best practices, it's best to have the second redirect point to the first, to minimize room for error when making updates to a redirect to avoid having them go to different places. _(Additionally, general http convention calls for /example to be a file and /example/ to be a directory, and one should generally not create redirects for trailing slashes for non-folders. Howver as the old site was set up this way, the existing ones have been preserved to maintain SEO but are not advised to be created for new ones unless required.)_
+
+## 404 Page
+Cloudlfare pages requires a 404.html in the root director in order to render a 404 and not default to all bad pages falling on the homepage. Because an html in the root directory can't inheret the templating of the jekyl site, you will need to remember to maintain this page manually to ensure its stylization stays in sync with the website theme (the header, nav menu, css etc are all kept in this page manually.)
+
+## SuperLinter
+WIP
 
 ## License
 
