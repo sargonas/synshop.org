@@ -20,7 +20,7 @@ header:
 </td>
 <td>
   <div markdown="1">
-  If you are an existing member, you can [log in here](https://membership.synshop.org]/login) to the membership dashboard to make changes to your account.
+  If you are an existing member, you can [log in here](https://membership.synshop.org/login) to the membership dashboard to make changes to your account.
   </div>
 </td>
 </tr>
