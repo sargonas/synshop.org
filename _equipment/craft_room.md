@@ -22,6 +22,6 @@ In our crafting room we have a variety of tools (and our network server rack!)
 - [Consew Industrial Sewing Machine](https://rtfm.synshop.org/users/Equipment/Consew%20230%20Industrial%20Sewing%20Machine/)
 - [Singer Stylist II Serger](/equipment/serger/)
 - [Singer Sewing machine](/equipment/sewing_machine)
-- [Silouhette Cameo cutting machine](https://rtfm.synshop.org/users/Equipment/Silhoutte%20Cameo/)
+- [Silhouette Cameo cutting machine](https://rtfm.synshop.org/users/Equipment/Silhoutte%20Cameo/)
 - Thermal Laminator
 - Leatherworking Hand tools
