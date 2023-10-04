@@ -7,10 +7,10 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: 0.5
 ---
-<table style="width:%">
+<table style="width:%;">
 <tr>
-<th style="width:50%">New Members</th>
-<th style="width:50%">Existing Members</th>
+  <th style="width:50%">New Members</th>
+  <th style="width:50%">Existing Members</th>
 </tr>
 <tr>
 <td>
@@ -25,7 +25,11 @@ header:
 </td>
 </tr>
 </table>
----
+
+<div style="background: #eee; border: 1px dashed;padding:10px;margin-bottom:50px;">
+  <b>NOTE:</b><br/> If you are an existing member but have never used this system before, you will need to <a href="https://membership.synshop.org/signup">create a new login account</a>.  Once you have created the account and verified your email, log in and your old membership information will be migrated to the new system.  If you have any issues please feel free to reach out to us.
+</div>
+
 
 # Membership Guidelines
 
