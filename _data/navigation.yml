@@ -12,8 +12,6 @@ main:
     url: https://rtfm.synshop.org/
   - title: "About"
     url: /about/
-  - title: "Contact"
-    url: /contact/
   - title: "Donate"
     url: /donate/
   - title: "Membership"

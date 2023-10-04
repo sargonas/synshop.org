@@ -24,7 +24,7 @@ The main settings happen inside of the _config.yml_ file:
 
 - New pages can be added by writing them in HTML or MD inside the \_Pages folder.
 
-- If you wish to have a page appear in the top Nav Bar, it is managed by the \_data/navigation.yml file. _(However the current nav bar is at max width, and new entries will result in a hamburger menu to the far right)_
+- If you wish to have a page appear in the top Nav Bar, it is managed by the \_data/navigation.yml file. You will also need to update it to match on 404.hml and in each html file in the template folder inside the membership.synshop.org repo. _(However the current nav bar is at max width, and new entries will result in a hamburger menu to the far right)_
 
 ## Redirects
 
