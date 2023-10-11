@@ -7,28 +7,35 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: 0.5
 ---
-<table style="width:%">
+<table style="width:%;">
 <tr>
-<th style="width:30%">Access</th>
-<th style="width:30%">Hours</th>
+<th style="width:20%"><h2>Hours</h2></th>
+<th style="width:30%"><h2>Access</h2></th>
 </tr>
 <tr>
 <td>
-  <div markdown="1">
-  SYN Shop's hours are typically weeknights and Saturday afternoons. The "open" hours are overseen by a dedicated Vetted Member, with Members welcome during those times or any other time a Vetted member is present. Vetted Members are also allowed 24/7 access on all days via their Keyfob.
-  </div>
+  <!-- 
+  NOTE:
+    If you change any of the HTML structure of this table, please be aware that 
+    the Shop Discord bot (https://github.com/synshop/discord_faqbot) consumes
+    it to populate its "shop hours?" response, so please test and report any
+    breakages by creating an issue in the discord_faqbot repo.
+  -->
+  <table id="shophours" style="font-size: .90em;">
+    <tr><td style="border:0px;width:100px;"><b>Monday</b></td><td style="border:0px;">7:00pm - 10:00pm</td></tr>  
+    <tr><td style="border:0px;"><b>Tuesday</b></td><td style="border:0px;">7:00pm - 10:00pm</td></tr>  
+    <tr><td style="border:0px;"><b>Wednesday</b></td><td style="border:0px;">7:00pm - 10:00pm</td></tr>  
+    <tr><td style="border:0px;"><b>Thursday</b></td><td style="border:0px;">7:00pm - 10:00pm</td></tr>  
+    <tr><td style="border:0px;"><b>Friday</b></td><td style="border:0px;">6:00pm - 10:00pm</td></tr>
+    <tr><td style="border:0px;"><b>Saturday</b></td><td style="border:0px;">12:00pm - 5:00pm</td></tr>
+    <tr><td style="border:0px;"><b>Sunday</b></td><td style="border:0px;">CLOSED</td></tr>
+  </table>
 </td>
-<td>
-  <div markdown="1">
-  
-  **Monday:**  7-10pm  
-  **Tuesday:**  7-10pm  
-  **Wednesday:**  7-10pm  
-  **Thursday:**  7-10pm  
-  **Friday:** 7-10pm  
-  **Saturday:** Noon to 5pm  
-  **Sunday:** Closed to the public  
-  </div>
+<td style="vertical-align:top;">
+  <p>
+  SYN Shop's hours are typically weeknights and Saturday afternoons. The "open" hours are overseen by a dedicated Vetted Member, with Regular Members welcome during those times or any other time a Vetted member is present.
+  </p>
+  <p>Vetted Members are also allowed 24/7 access on all days via their RFID token.</p>
 </td>
 </tr>
 </table>
