@@ -1,21 +1,22 @@
 ---
 title: Print Shop
 id: print_shop
-permalink: '/equipment/print_shop/'
-image: '/assets/images/equipment/print_shop.jpg'
+permalink: /equipment/print_shop/
+image: /assets/images/equipment/print_shop.jpg
 layout: equipment
 tags: equipment
 classes: wide
 header:
-  teaser: '/assets/images/equipment/print_shop.jpg'
-  overlay_image: /assets/images/header_equipment.png
+  overlay_image: /assets/images/header_synshop.png
   overlay_color: "#5e616c"
   overlay_filter: 0.5
 type: 'station'
 subtype: 'printing'
 updated: 2023-08-02
 ---
-<img align="right" width="250" height="250" src="/assets/images/equipment/print_shop.jpg">
+<img align="right" width="500" height="500" src="/assets/images/equipment/print_shop.jpg" style="padding: 10px">
+
+## Print Shop
 
 We have a print shop room with printing & binding supplies
 

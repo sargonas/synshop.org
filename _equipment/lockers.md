@@ -1,21 +1,22 @@
 ---
 title: Lockers
 id: lockers
-permalink: '/equipment/lockers/'
-image: '/assets/images/equipment/lockers.jpg'
+permalink: /equipment/lockers/
+image: /assets/images/equipment/lockers.jpg
 layout: equipment
 tags: equipment
 classes: wide
 header:
-  teaser: '/assets/images/equipment/lockers.jpg'
-  overlay_image: /assets/images/header_equipment.png
+  overlay_image: /assets/images/header_synshop.png
   overlay_color: "#5e616c"
   overlay_filter: 0.5
 type: 'utilities'
 subtype: 'lockers'
 updated: 2023-08-02
 ---
-<img align="right" width="250" height="250" src="/assets/images/equipment/lockers.jpg">
+<img align="right" width="500" height="500" src="/assets/images/equipment/lockers.jpg" style="padding: 10px">
+
+## Lockers
 
 Lockers are available to members for an additional $10/month.
 
