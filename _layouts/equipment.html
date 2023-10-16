@@ -31,7 +31,6 @@ layout: default
       {% endunless %}
 
       <section class="page__content e-content" itemprop="text">
-        
         <div class="equipmentimage"><img src="{{image}}" alt="{{title}}" /></div>{{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
@@ -51,7 +50,6 @@ layout: default
       {% endcomment %}
     </div>
 
-   
   </article>
 
   {% if page.id and page.related and site.related_posts.size > 0 %}
