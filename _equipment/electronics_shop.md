@@ -1,21 +1,23 @@
 ---
 title: Electronics Room
 id: electronics_shop
-permalink: '/equipment/electronics_room/'
-image: '/assets/images/equipment/electronics_room.jpg'
+permalink: /equipment/electronics_room/
+image: /assets/images/equipment/electronics_room.jpg
 layout: equipment
-tags: equipment
+tags: rooms
 classes: wide
 header:
-  teaser: '/assets/images/equipment/electronics_room.jpg'
-  overlay_image: /assets/images/header_equipment.png
+  overlay_image: /assets/images/header_synshop.png
   overlay_color: "#5e616c"
   overlay_filter: 0.5
 type: 'station'
 subtype: 'electronics'
 updated: 2023-08-02
+order: 5
 ---
-<img align="right" width="250" height="250" src="/assets/images/equipment/electronics_room.jpg">
+<img align="right" width="500" height="500" src="/assets/images/equipment/electronics_room.jpg" style="padding: 10px">
+
+## Electronics Shop
 
 We have a full suite of tools in our Electronics room for use.
 

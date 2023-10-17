@@ -1,21 +1,23 @@
 ---
 title: CNC Machine
 id: shopbot
-permalink: '/equipment/cnc_machine/'
-image: '/assets/images/equipment/cnc_machine.jpg'
+permalink: /equipment/cnc_machine/
+image: /assets/images/equipment/cnc_machine.jpg
 layout: equipment
 tags: equipment
 classes: wide
 header:
-  teaser: '/assets/images/equipment/cnc_machine.jpg'
-  overlay_image: /assets/images/header_equipment.png
+  overlay_image: /assets/images/header_synshop.png
   overlay_color: "#5e616c"
   overlay_filter: 0.5
 type: 'machinery'
 subtype: 'CNC Machine'
 updated: 2023-08-02
+order: 40
 ---
-<img align="right" width="250" height="250" src="/assets/images/equipment/cnc_machine.jpg">
+<img align="right" width="500" height="500" src="/assets/images/equipment/cnc_machine.jpg" style="padding: 10px">
+
+## CNC Machine
 
 We have a [ShopBot PRSstandard CNC 96-48](https://www.shopbottools.com/products/standard) available for use.
 

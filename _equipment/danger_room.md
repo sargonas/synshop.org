@@ -1,21 +1,23 @@
 ---
 title: Danger Room
 id: danger_room
-permalink: '/equipment/danger_room/'
-image: '/assets/images/equipment/danger_room.jpg'
+permalink: /equipment/danger_room/
+image: /assets/images/equipment/danger_room.jpg
 layout: equipment
-tags: equipment
+tags: rooms
 classes: wide
 header:
-  teaser: '/assets/images/equipment/danger_room.jpg'
-  overlay_image: /assets/images/header_equipment.png
+  overlay_image: /assets/images/header_synshop.png
   overlay_color: "#5e616c"
   overlay_filter: 0.5
 type: 'station'
 subtype: 'danger room'
 updated: 2023-10-04
+order: 3
 ---
-<img align="right" width="250" height="250" src="/assets/images/equipment/danger_room.jpg">
+<img align="right" width="500" height="500" src="/assets/images/equipment/danger_room.jpg" style="padding: 10px">
+
+## Danger Room
 
 THE DANGER ROOM!
 Everything in this room requires that you have a [waiver on file](/membership#liability-wavier) and have been certified for a particular tool by a trained member!

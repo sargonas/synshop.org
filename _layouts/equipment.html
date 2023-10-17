@@ -2,9 +2,9 @@
 layout: default
 ---
 
-{% if header.overlay_color or header.overlay_image or header.image %}
-  {% include page__hero.html %}
-{% elsif header.video.id and header.video.provider %}
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include equipment__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
 
@@ -31,7 +31,6 @@ layout: default
       {% endunless %}
 
       <section class="page__content e-content" itemprop="text">
-        
         <div class="equipmentimage"><img src="{{image}}" alt="{{title}}" /></div>{{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
@@ -51,7 +50,6 @@ layout: default
       {% endcomment %}
     </div>
 
-   
   </article>
 
   {% if page.id and page.related and site.related_posts.size > 0 %}

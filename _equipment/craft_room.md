@@ -1,21 +1,23 @@
 ---
 title: Craft Room
 id: craft_room
-permalink: '/equipment/craft_room/'
-image: '/assets/images/equipment/craft_room.jpg'
+permalink: /equipment/craft_room/
+image: /assets/images/equipment/craft_room.jpg
 layout: equipment
-tags: equipment
+tags: rooms
 classes: wide
 header:
-  teaser: '/assets/images/equipment/craft_room.jpg'
-  overlay_image: /assets/images/header_equipment.png
+  overlay_image: /assets/images/header_synshop.png
   overlay_color: "#5e616c"
   overlay_filter: 0.5
 type: 'station'
 subtype: 'crafts'
 updated: 2023-08-02
+order: 1
 ---
-<img align="right" width="250" height="250" src="/assets/images/equipment/craft_room.jpg">
+<img align="right" width="500" height="500" src="/assets/images/equipment/craft_room.jpg" style="padding: 10px">
+
+## Craft Room
 
 In our crafting room we have a variety of tools (and our network server rack!)
 
