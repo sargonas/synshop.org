@@ -13,6 +13,7 @@ header:
 type: 'utilities'
 subtype: 'lockers'
 updated: 2023-08-02
+order: 9
 ---
 <img align="right" width="500" height="500" src="/assets/images/equipment/lockers.jpg" style="padding: 10px">
 

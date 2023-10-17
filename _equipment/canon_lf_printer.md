@@ -13,6 +13,7 @@ header:
 type: 'printing'
 subtype: 'printer'
 updated: 2023-08-02
+order: 30
 ---
 <img align="right" width="500" height="500" src="/assets/images/equipment/canon_lf_printer.jpg" style="padding: 10px">
 

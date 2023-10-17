@@ -13,6 +13,7 @@ header:
 type: 'machinery'
 subtype: 'table saw'
 updated: 2023-08-02
+order: 120
 ---
 <img align="right" width="500" height="500" src="/assets/images/equipment/table_saw.jpg" style="padding: 10px">
 

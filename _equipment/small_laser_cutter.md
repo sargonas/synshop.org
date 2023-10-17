@@ -13,6 +13,7 @@ header:
 type: 'fabrication'
 subtype: 'laser cutter'
 updated: 2023-08-02
+order: 110
 ---
 <img align="right" width="500" height="500" src="/assets/images/equipment/small_laser_cutter.jpg" style="padding: 10px">
 

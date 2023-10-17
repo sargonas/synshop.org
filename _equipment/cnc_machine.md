@@ -13,6 +13,7 @@ header:
 type: 'machinery'
 subtype: 'CNC Machine'
 updated: 2023-08-02
+order: 40
 ---
 <img align="right" width="500" height="500" src="/assets/images/equipment/cnc_machine.jpg" style="padding: 10px">
 

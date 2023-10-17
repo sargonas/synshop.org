@@ -13,6 +13,7 @@ header:
 type: 'printing'
 subtype: 'cutter'
 updated: 2023-08-02
+order: 70
 ---
 <img align="right" width="500" height="500" src="/assets/images/equipment/rotary_cutter.jpg" style="padding: 10px">
 

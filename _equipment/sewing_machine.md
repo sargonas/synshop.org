@@ -14,6 +14,7 @@ header:
 type: 'crafts'
 subtype: 'sewing machine'
 updated: 2023-08-02
+order: 90
 ---
 <img align="right" width="500" height="500" src="/assets/images/equipment/sewing_machine.jpg" style="padding: 10px">
 

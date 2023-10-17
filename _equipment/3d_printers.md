@@ -7,13 +7,13 @@ layout: equipment
 tags: equipment
 classes: wide
 header:
-header:
   overlay_image: /assets/images/header_synshop.png
   overlay_color: "#5e616c"
   overlay_filter: 0.5
 type: 'fabrication'
 subtype: '3d Printers'
 updated: 2023-08-02
+order: 10
 ---
 <img align="right" width="500" height="500" src="/assets/images/equipment/3d_printers.jpg" style="padding: 10px">
 

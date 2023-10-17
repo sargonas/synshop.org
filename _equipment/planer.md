@@ -13,6 +13,7 @@ header:
 type: 'machinery'
 subtype: 'planer'
 updated: 2023-08-31
+order: 60
 ---
 <img align="right" width="500" height="500" src="/assets/images/equipment/planer.jpg" style="padding: 10px">
 

@@ -4,7 +4,7 @@ id: print_shop
 permalink: /equipment/print_shop/
 image: /assets/images/equipment/print_shop.jpg
 layout: equipment
-tags: equipment
+tags: rooms
 classes: wide
 header:
   overlay_image: /assets/images/header_synshop.png
@@ -13,6 +13,7 @@ header:
 type: 'station'
 subtype: 'printing'
 updated: 2023-08-02
+order: 7
 ---
 <img align="right" width="500" height="500" src="/assets/images/equipment/print_shop.jpg" style="padding: 10px">
 

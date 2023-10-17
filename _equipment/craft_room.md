@@ -4,7 +4,7 @@ id: craft_room
 permalink: /equipment/craft_room/
 image: /assets/images/equipment/craft_room.jpg
 layout: equipment
-tags: equipment
+tags: rooms
 classes: wide
 header:
   overlay_image: /assets/images/header_synshop.png
@@ -13,6 +13,7 @@ header:
 type: 'station'
 subtype: 'crafts'
 updated: 2023-08-02
+order: 1
 ---
 <img align="right" width="500" height="500" src="/assets/images/equipment/craft_room.jpg" style="padding: 10px">
 

@@ -16,11 +16,11 @@ You should have a server up and running locally on the usual dev/test port of 40
 
 ## Configuration
 
-The main settings happen inside of the _config.yml_ file:
+The main settings happen inside of the _config.yml_ file
 
 ## Key info
 
-- Equipment can be added by adding a new markdown file per piece of equipment to the \_equpment folder. When doing so, it's important to match the Front Matter style of the existing ones, as each component plays a key role in the current site look and layout.
+- Equipment can be added by adding a new markdown file per piece of equipment to the \_equpment folder. When doing so, it's important to match the Front Matter style of the existing ones, as each component plays a key role in the current site look and layout. Equipment has a manual sort order configured via a `order` front matter tag to force the "rooms" at the top of the listing, and then individual items after in alphabetical order. To alleviate future headache of mass renumbering when inserting a new item, initial items are numbered in multiples of 10 to leave room for plenty of insertions without major renumberings.
 
 - New pages can be added by writing them in HTML or MD inside the \_Pages folder.
 
@@ -38,7 +38,7 @@ Example:
 As a matter of best practices, it's best to have the second redirect point to the first, to minimize room for error when making updates to a redirect to avoid having them go to different places. _(Additionally, general http convention calls for /example to be a file and /example/ to be a directory, and one should generally not create redirects for trailing slashes for non-folders. Howver as the old site was set up this way, the existing ones have been preserved to maintain SEO but are not advised to be created for new ones unless required.)_
 
 ## 404 Page
-Cloudlfare pages requires a 404.html in the root director in order to render a 404 and not default to all bad pages falling on the homepage. Because an html in the root directory can't inheret the templating of the jekyl site, you will need to remember to maintain this page manually to ensure its stylization stays in sync with the website theme (the header, nav menu, css etc are all kept in this page manually.)
+Cloudlfare pages requires a 404.html in the root directory in order to render a 404 and not default to all bad pages falling on the homepage. 404.md is configured to include what it needs to maintain UI design consistency, and kick out a 404.html at build
 
 ## SuperLinter
 WIP
