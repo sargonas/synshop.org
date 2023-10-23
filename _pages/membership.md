@@ -7,16 +7,16 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: 0.5
 ---
-<table style="width:%;">
+<table style="width:100%;">
 <tr>
   <th style="width:50%">New Members</th>
   <th style="width:50%">Existing Members</th>
 </tr>
 <tr>
-<td style="text-align:top;border:0px solid;">
+<td style="text-align:top;border:0px solid;font-size:20px;">
   To use the equipment at SYN Shop, you'll need to <a href="https://membership.synshop.org/signup">sign up for a membership</a> ($50 / month, which you can cancel at any time) and sign a <a href="#liability-wavier">liability waiver</a>.
 </td>
-<td style="vertical-align:top;border:0px solid;">
+<td style="vertical-align:top;border:0px solid;font-size:20px;">
   If you are an existing member, you can <a href="https://membership.synshop.org/login">log in to the membership dashboard</a> to make changes to your account.
 </td>
 </tr>
