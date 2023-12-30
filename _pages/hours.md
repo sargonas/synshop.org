@@ -26,7 +26,7 @@ header:
     <tr><td style="border:0px;"><b>Tuesday</b></td><td style="border:0px;">7:00pm - 10:00pm</td></tr>  
     <tr><td style="border:0px;"><b>Wednesday</b></td><td style="border:0px;">7:00pm - 10:00pm</td></tr>  
     <tr><td style="border:0px;"><b>Thursday</b></td><td style="border:0px;">7:00pm - 10:00pm</td></tr>  
-    <tr><td style="border:0px;"><b>Friday</b></td><td style="border:0px;">6:00pm - 10:00pm</td></tr>
+    <tr><td style="border:0px;"><b>Friday</b></td><td style="border:0px;">6:30pm - 10:00pm</td></tr>
     <tr><td style="border:0px;"><b>Saturday</b></td><td style="border:0px;">12:00pm - 5:00pm</td></tr>
     <tr><td style="border:0px;"><b>Sunday</b></td><td style="border:0px;">CLOSED</td></tr>
   </table>
