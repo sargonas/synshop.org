@@ -67,6 +67,8 @@ Changes to `main` will deploy automatically to Cloudflare and update the website
 
 CF does not use the default Jekyll settings, instead it uses a custom build command with `jekyll build && cp _redirects _site/_redirects`, which allows for the redirects to work as expected. (Default selection of Jekyll from the drop down will only result in `jekyll build`)
 
+In the project settings for the Pages entry for this in Cloudflare, it is important to make sure the `RUBY_VERSION` environment variable is always set to the same version as the one inside `minimal-mistakes-jekyll.gemspec`. It would be best to leave this version as currently set, unless an update is needed for dependency or security issues.
+
 ## License
 
 The MIT License (MIT)
