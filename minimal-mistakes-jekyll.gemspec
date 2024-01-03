@@ -15,6 +15,9 @@ Gem::Specification.new do |spec|
     f.match(%r{^(assets|_(data|includes|layouts|sass)/|(LICENSE|README|CHANGELOG)((\.(txt|md|markdown)|$)))}i)
   end
 
+  #locks ruby version to ensure local dev and CloudFlare are in sync. Only change this if you have a good reason!
+  spec.required_ruby_version = "~> 3.2.2"
+
   spec.add_runtime_dependency "jekyll", ">= 3.7", "< 5.0"
   spec.add_runtime_dependency "jekyll-paginate", "~> 1.1"
   spec.add_runtime_dependency "jekyll-sitemap", "~> 1.3"
