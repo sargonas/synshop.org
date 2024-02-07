@@ -36,3 +36,5 @@ A non-exhaustive list of the various things available in the electronics room
 - Digital Multi Meter
 - SMD Hotair rework station
 - Miscellaneous circuitry parts
+- Various cables of countles varities
+- Misc. power adapters

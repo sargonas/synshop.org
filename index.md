@@ -29,8 +29,8 @@ SYN Shop is a hackerspace serving the Las Vegas Valley in Nevada. It is a space 
 
 We are hackers, makers, artists, innovators, inventors, people of knowledge, and people who want to learn. We are people who take things apart to see how they work. We design the new because it has not been done before, and we reinvent what has already been done for the challenge of doing it ourselves. We're here to discover the unknown, to teach others, and to put our mark on the world by helping others. We're here to form a community of people who come together to share resources and knowledge to build and make things.
 
-### What We Are Not
+### Who We Are ***Not***
 
-We may be hackers, but we are hackers in the same sense as Steve Wozniak or Dean Kamen are. We're not here to break into your ex's cell phone/computer/automobile, etc.. We're not the people who attack and deface web sites, steal people's credit card information, or identities. In fact, many of us work in the industries which protect against such people.
+We may be "hackers", but we are "hackers" in the same sense as Steve Wozniak or Dean Kamen are. We're not here to break into your ex's cell phone/computer/automobile, etc.. We're not the people who attack and deface web sites and steal people's credit cards or identities. In fact, many of us work in the very industries which protect against such people.
 
 {% include feature_row %}
