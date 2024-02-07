@@ -27,3 +27,5 @@ In our crafting room we have a variety of tools (and our network server rack!)
 - [Silhouette Cameo cutting machine](https://rtfm.synshop.org/users/Equipment/Silhoutte%20Cameo/)
 - Thermal Laminator
 - Leatherworking Hand tools
+- Hot Glue equipment and supplies
+- Misc. notions, fabrics, and other crafting supplies

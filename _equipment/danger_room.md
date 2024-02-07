@@ -22,7 +22,7 @@ order: 3
 THE DANGER ROOM!
 Everything in this room requires that you have a [waiver on file](/membership#liability-wavier) and have been certified for a particular tool by a trained member!
 
-*(Several pieces of hardware are temporarily offline while we get our three-phase power wired up in our new facility. Please check folks on Discord or at the Shop to see what is current available for use.)*
+*(Several pieces of hardware are temporarily offline while we get our three-phase power wired up in our new facility. Please check with folks on Discord or locally at the Shop to see what is current available for use.)*
 
 ## Large Equipment
 

@@ -19,4 +19,4 @@ order: 70
 
 ## Rotary Cutter
 
-40" rotary cutter with LED lighting
+40" rotary cutter frame with LED lighting

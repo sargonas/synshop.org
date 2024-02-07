@@ -10,7 +10,7 @@ header:
 
 ## Donations
 
-We gladly accept donations, via our secure processing partner, Stripe. As a 501(c)(3) Non-Profit, your donations may be tax deductible. For any tax purposes, our EIN is 45-4657308. _(Please contact a staff member if you require additional verification paperwork for filing.)_
+We gladly accept donations, via our secure processing partner, Stripe. As a 501(c)(3) Non-Profit, your donations may be tax deductible. For any tax purposes, our EIN is 45-4657308. *(Please contact a staff member if you require additional verification paperwork for filing.)*
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
