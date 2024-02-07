@@ -57,4 +57,4 @@ You must complete a very quick and to-the-point Tool Certification (TC) before y
 Please see the [hours page](/hours) for more details.
 
 #### Lockers
-We have lockers available on a first come / first serve basis and cost an additional $10/mo.
+We have lockers available on a first come, first serve basis at an additional $10/mo.
