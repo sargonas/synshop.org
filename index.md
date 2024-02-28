@@ -1,6 +1,6 @@
 ---
 title: SYN Shop
-excerpt: '5967 Harrison Dr, Las Vegas, NV 89120'
+excerpt: '5967 Harrison Dr, Suite 1, Las Vegas, NV 89120'
 layout: splash
 permalink: '/'
 hidden: true
