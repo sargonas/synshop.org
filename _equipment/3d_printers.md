@@ -21,10 +21,9 @@ order: 10
 
 We have multiple FDM 3D Printers available for shop use
 
-- [Cetus3D](https://www.cetus3d.com/) - PLA Only printer
-- 2x [Creality Ender 3](https://www.creality.com/products/ender-3-3d-printer) - PLA Only printers
-- [Replicator 2](https://www.makerbot.com/) - PLA Only printer, 100 micron print resolution
-- [Flashforge Dual Extruder 3D Printers](https://store.flashforge.com/) (ABS/PLA, 100 micron print resolution)
+- [Cetus3D mk3](https://shop.tiertime.com/product/cetus-3d-printer-mk3/) - PLA Only printer
+- [Fusion3 F400-s](https://www.fusion3design.com/discontinued_fusion3_f400_3d_printer/) - Large format PLA 3D Printer
+- [Bambu X1 Carbon with 4 filament AMS](https://bambulab.com/en-us/x1)
 - 2x [Anycubic Photon Series LCD-Based SLA Resin 3D Printers](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer)
 
 Our printers support:
